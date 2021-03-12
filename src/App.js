@@ -14,7 +14,7 @@ function App() {
         <Refund></Refund>
       </Container>
       <div className="footer">
-        <p className="text-center">&copy; 2021 : WM Airlines</p>
+        <p className="text-center">&copy; 2021 : WM Airlines Ltd</p>
       </div>
     </div>
   );
